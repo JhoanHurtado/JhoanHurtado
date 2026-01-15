@@ -1,10 +1,9 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=007AFF&height=220&text=Jhoan%20Hurtado&fontSize=72&fontAlignY=38&desc=Full Stack%20Developer%7C%20Cloud%20%7C%20AI&descAlignY=60&descSize=20"
+    src="https://capsule-render.vercel.app/api?type=waving&color=007AFF&height=220&text=Jhoan%20Hurtado&fontSize=72&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cloud%20%7C%20AI&descAlignY=60&descSize=20"
     width="100%"
   />
 </div>
-
 
 ---
 
