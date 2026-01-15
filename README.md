@@ -5,8 +5,6 @@
   />
 </div>
 
----
-
 ## 👋 About Me
 
 I’m a **Full Stack Developer** with **3+ years of professional experience**, focused primarily on **backend engineering, system architecture, and AI-powered applications**.
@@ -120,15 +118,27 @@ I aim to contribute to **international, high-impact projects** where:
 
 I’m especially interested in **remote or global teams** building modern, cloud-native products.
 
----
+<!-- --- -->
 
-## 📊 GitHub Activity Snapshot
+<!-- ## 📊 GitHub Activity Snapshot
 
 <p align="center">
-  <img src="./assets/github-stats/profile-details.svg" width="100%" />
-  <img src="./assets/github-stats/repos-per-language.svg" width="45%" />
-  <img src="./assets/github-stats/most-commit-language.svg" width="45%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JhoanHurtado&show_icons=true&theme=transparent&hide_border=true"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoanHurtado&layout=compact&theme=transparent&hide_border=true"
+    width="49%"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=JhoanHurtado&theme=github-compact"
+    width="100%"
+  />
+</p> -->
 
 ---
 
