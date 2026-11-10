@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="100%" height="100%">
+  <defs>
+    <style>
+      .mono {
+        font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      }
+      .sans {
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      }
+    </style>
+    <pattern id="grid-dark" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#27272A" stroke-width="0.6" stroke-dasharray="2,2" />
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="300" fill="#09090B" rx="6" />
+  <rect width="1000" height="300" fill="url(#grid-dark)" opacity="0.55" rx="6" />
+  <rect x="0.5" y="0.5" width="999" height="299" fill="none" stroke="#27272A" stroke-width="1" rx="6" />
+
+  <!-- Top Editorial Bar -->
+  <line x1="48" y1="54" x2="952" y2="54" stroke="#27272A" stroke-width="1" />
+  <text x="48" y="38" class="mono" font-size="11" fill="#A1A1AA" letter-spacing="1.8">00 // JHOANHURTADO.COM</text>
+  <circle cx="944" cy="34" r="4" fill="#FAFAFA" />
+  <text x="930" y="38" text-anchor="end" class="mono" font-size="11" fill="#A1A1AA" letter-spacing="1.5">AVAILABLE FOR REMOTE &amp; CONSULTING</text>
+
+  <!-- Main Heading & Role -->
+  <text x="48" y="118" class="sans" font-size="46" font-weight="700" fill="#FAFAFA" letter-spacing="-1.2">Jhoan Hurtado</text>
+  <text x="48" y="150" class="sans" font-size="18" font-weight="400" fill="#A1A1AA" letter-spacing="-0.2">Full Stack Software Engineer &amp; Tech Consultant</text>
+
+  <!-- Summary Statement -->
+  <text x="48" y="188" class="sans" font-size="14" fill="#D4D4D8">
+    5+ years building scalable backend architectures, serverless multi-tenant platforms, and AI/data pipelines
+  </text>
+  <text x="48" y="208" class="sans" font-size="14" fill="#D4D4D8">
+    with .NET, AWS, Python, and SQL — from system design to production deployment.
+  </text>
+
+  <!-- Bottom Focus Bar -->
+  <line x1="48" y1="234" x2="952" y2="234" stroke="#27272A" stroke-width="1" />
+  <text x="48" y="266" class="mono" font-size="10" fill="#71717A" letter-spacing="1.5">CURRENT FOCUS</text>
+
+  <!-- Focus Pills -->
+  <g transform="translate(170, 249)">
+    <rect x="0" y="0" width="168" height="24" fill="#18181B" stroke="#27272A" stroke-width="1" rx="2" />
+    <text x="84" y="16" text-anchor="middle" class="mono" font-size="10.5" fill="#E4E4E7">Backend at Scale (.NET)</text>
+
+    <rect x="178" y="0" width="184" height="24" fill="#18181B" stroke="#27272A" stroke-width="1" rx="2" />
+    <text x="270" y="16" text-anchor="middle" class="mono" font-size="10.5" fill="#E4E4E7">Cloud &amp; Serverless (AWS)</text>
+
+    <rect x="372" y="0" width="174" height="24" fill="#18181B" stroke="#27272A" stroke-width="1" rx="2" />
+    <text x="459" y="16" text-anchor="middle" class="mono" font-size="10.5" fill="#E4E4E7">Distributed Architecture</text>
+
+    <rect x="556" y="0" width="194" height="24" fill="#18181B" stroke="#27272A" stroke-width="1" rx="2" />
+    <text x="653" y="16" text-anchor="middle" class="mono" font-size="10.5" fill="#E4E4E7">Applied AI, RAG &amp; Data ML</text>
+  </g>
+</svg>
